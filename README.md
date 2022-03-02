@@ -8,5 +8,5 @@
 このプログラムは、Windows 10 以上で利用できるトースト通知のためのプログラムです。  
 秀丸のみならず、汎用目的でコンソールからでも利用可能です。
 
-[https://https://秀丸マクロ.net/?page=nobu_tool_hm_baloontoast](https://https://秀丸マクロ.net/?page=nobu_tool_hm_baloontoast)
+[https://秀丸マクロ.net/?page=nobu_tool_hm_baloontoast](https://秀丸マクロ.net/?page=nobu_tool_hm_baloontoast)
 
